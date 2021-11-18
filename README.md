@@ -1,6 +1,6 @@
 ## Bem vindo! Eu sou Carlos Edan. 
 
-- 🌱 Aprendendo desenvolvimento web na [TRYBE](https://www.betrybe.com).
+- 🌱 Aprendendo desenvolvimento web --> [TRYBE](https://www.betrybe.com).
 
 <div align="center">
   <a href="https://github.com/CarlosEdan">
